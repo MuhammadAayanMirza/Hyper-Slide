@@ -1749,7 +1749,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 633b4b56df56343589c5e5eaf76e1bc6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.9
+      value: -5.64
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 633b4b56df56343589c5e5eaf76e1bc6, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2043,7 +2043,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 633b4b56df56343589c5e5eaf76e1bc6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -14.82
+      value: -15.06
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 633b4b56df56343589c5e5eaf76e1bc6, type: 3}
       propertyPath: m_LocalPosition.y
@@ -10913,6 +10913,14 @@ PrefabInstance:
       propertyPath: spawnPoint
       value: 
       objectReference: {fileID: 6475370026987111645}
+    - target: {fileID: -5567450895147455485, guid: 07f5f2dc1aad4408faaf33e445c94a41, type: 3}
+      propertyPath: characterPrefabs.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -5567450895147455485, guid: 07f5f2dc1aad4408faaf33e445c94a41, type: 3}
+      propertyPath: 'characterPrefabs.Array.data[2]'
+      value: 
+      objectReference: {fileID: 4716804146319278464, guid: 55dc7e82331104e66a265ae48b52e45b, type: 3}
     - target: {fileID: 2499315078909833982, guid: 07f5f2dc1aad4408faaf33e445c94a41, type: 3}
       propertyPath: m_Name
       value: GameManager

@@ -28,6 +28,7 @@ public class CharacterSelection : MonoBehaviour
     {
         PlayerPrefs.SetInt("selectedCharacter", selectedCharacter);
         PlayerPrefs.Save();
+        SceneManager.LoadScene("Menu");
     }
 
 

@@ -28,7 +28,7 @@ public class PlayerMovements : MonoBehaviour
         rb.AddForce(-sidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
        }
 
-        if (rb.position.y < spawnPoint.y -1f)
+        if (rb.position.y < spawnPoint.y -2f)
         {
             FindAnyObjectByType<GameManager>().EndGame();
         }
