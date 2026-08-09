@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 112}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 734862
+  controlID: 737692
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -110,18 +110,18 @@ MonoBehaviour:
       y: 21
       width: 486
       height: 412.5
-    m_Scale: {x: 0.40190962, y: 0.40190965}
-    m_Translation: {x: 255.70052, y: 206.25}
+    m_Scale: {x: 0.464527, y: 0.46452704}
+    m_Translation: {x: 295.95657, y: 206.25}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -636.214
-      y: -513.17505
-      width: 1209.227
-      height: 1026.3501
+      x: -637.11383
+      y: -444
+      width: 1046.2255
+      height: 888
     m_MinimalGUI: 1
   m_defaultScale: 0.3796875
   m_LastWindowPixelSize: {x: 972, y: 867}
@@ -155,7 +155,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 734863
+  controlID: 737693
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -182,7 +182,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 56}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 734864
+  controlID: 737694
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -254,10 +254,19 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_rawData: 568105584922452726
+      - m_rawData: 568105584922481114
       m_LastClickedID:
-        m_rawData: 568105584922452726
+        m_rawData: 568105584922481114
       m_ExpandedIDs:
+      - m_rawData: 568105589211086928
+      - m_rawData: 568105589211087308
+      - m_rawData: 568105589211087368
+      - m_rawData: 568105589211087390
+      - m_rawData: 568105589211087822
+      - m_rawData: 568105589211089370
+      - m_rawData: 568105589211089450
+      - m_rawData: 568105589211089494
+      - m_rawData: 568105589211090762
       - m_rawData: 568105589211098614
       - m_rawData: 568105589211099612
       - m_rawData: 568105589211100418
@@ -949,6 +958,8 @@ MonoBehaviour:
       - m_rawData: 568105584921726786
       - m_rawData: 568105584922262024
       - m_rawData: 568105584922392406
+      - m_rawData: 568105584922481104
+      - m_rawData: 568105584922481168
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1568,11 +1579,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.35889658, y: 0.23025271, z: -0.091832586, w: 0.8998638}
     speed: 2
-    m_Value: {x: 0.3588946, y: 0.23025142, z: -0.09183207, w: 0.8998587}
+    m_Value: {x: -0.35889655, y: -0.2302527, z: 0.091832586, w: -0.8998637}
   m_Size:
     m_Target: 389.22842
     speed: 2
-    m_Value: 388.06424
+    m_Value: 389.22842
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -2653,7 +2664,7 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/fonts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -2663,7 +2674,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 76
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/fonts
   m_LastFoldersGridSize: 76
   m_LastProjectPath: /Users/muhammadaayanmirza/Desktop/Unity Games/Cool Game
   m_LockTracker:
@@ -2672,9 +2683,9 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_rawData: 568105584918840378
+    - m_rawData: 568105584919137188
     m_LastClickedID:
-      m_rawData: 568105584918840378
+      m_rawData: 568105584919137188
     m_ExpandedIDs:
     - m_rawData: 0
     - m_rawData: 568105584918840196
@@ -2741,9 +2752,9 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_rawData: 568105584922452726
+    - m_rawData: 568105584922481114
     m_LastClickedEntityId:
-      m_rawData: 568105584922452726
+      m_rawData: 568105584922481114
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs:
     - m_rawData: 568105584918902496
