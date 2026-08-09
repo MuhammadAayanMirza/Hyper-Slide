@@ -22,7 +22,7 @@ There are currently 3 levels: </br>
 
 In this level there are rocks as obstacles and the rocks at the
 left and right act as a border which you have to stay within.
-If you collide with them the level restarts from the start.
+If you collide with them the level restarts.
 
 There are various obstacle sizes which you have to dodge to reach the next level.
 
@@ -30,14 +30,14 @@ There are various obstacle sizes which you have to dodge to reach the next level
 ![](https://cdn.hackclub.com/019fdbd8-6178-7026-a289-6f7dfd29bb2d/Screenshot%202026-08-07%20at%2015.49.48.png)
 
  This level has snow mounds as obstacles and the ice floor is raised in the air
- so if you fall down the level restarts. It is a bit more challenging than
- the **Water Slide**.
+ so if you fall down the level restarts. It is a bit easier than
+ the **Water Slide** level and acts as a filler level to lead to the more Challenging **Space Slide** level.
 
 
 There is also snow falling when the level is played.
 
 ### Space Slide
-![](https://cdn.hackclub.com/019fdbdc-bd33-7b0b-83ea-1df8385d1f64/Screenshot%202026-08-07%20at%2015.53.22.png)
+![](https://cdn.hackclub.com/019fe0e7-5210-7aad-b2b5-72254f744acf/Screenshot%202026-08-08%20at%2015.24.11.png)
 
 This level is the most challenging of them all because it
 has an invisble floor. You have to stay close to the asteroid obstacles to be
@@ -61,4 +61,4 @@ The core game concept and code was learned using ["Brackeys"](https://www.youtub
 
 All the props and 3d models for the game were made by me. 
 
->Made by: [Muhammad Aayan Mirza ](https://github.com/MuhammadAayanMirza)✌️
+>Made by: [Muhammad Aayan Mirza](https://github.com/MuhammadAayanMirza)✌️
