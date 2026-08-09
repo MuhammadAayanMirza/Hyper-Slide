@@ -55,6 +55,7 @@ The asteroids were modelled using 'geometry nodes' in blender.
 - Mobile compatibility.
 - Endless **Game Mode**
 - New levels and a level Screen.
+- Sound effects.
 
 ## Credits
 The core game concept and code was learned using ["Brackeys"](https://www.youtube.com/@Brackeys) Youtube Tutorials, as this is my first game ever.
