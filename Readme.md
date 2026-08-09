@@ -6,6 +6,8 @@
  forward in the path of obstacles which you have to dodge
  by moving left or right.
 
+ Play it here: https://muhammadaayanmirza.itch.io/hyper-slide
+
  ### Controls:
 
   - Move Right **"D"** Key
